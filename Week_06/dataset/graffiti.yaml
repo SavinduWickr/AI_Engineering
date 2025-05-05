@@ -1,0 +1,6 @@
+names:
+- Graffiti
+nc: 1
+path: /home/admin/Documents/AI_Eng/Week_06/dataset
+train: images/train
+val: images/val
